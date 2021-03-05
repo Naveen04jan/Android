@@ -1,2 +1,2 @@
-# Android
+# Mobile Application Development
 CS Lab
